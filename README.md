@@ -195,7 +195,7 @@ This dashboard was built to provide **actionable insights** into insurance opera
 
 7.Screenshots / Demo
 THE DASHBOARD PRIVIEW
-Snapshot of Insurance Data.png
+https://github.com/vedant23nanoti-spec/Insurance-Data-Analysis-Dashboard./tree/main
 
 
 
