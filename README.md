@@ -1,8 +1,7 @@
 # Insurance-Data-Analysis-Dashboard.
-Recommended Structure & order
 
- 1. Project Title / Headline
-    # Insurance Analytics Dashboard
+
+     # Insurance Analytics Dashboard
 
 **Comprehensive Power BI Dashboard for Insurance Claims & Policy Analysis**
 
@@ -10,8 +9,8 @@ A modern, interactive Business Intelligence solution designed to track, analyze,
 and visualize insurance claims, policy performance, and customer metrics in real-time.
 
 
- 2. Short Description & Purpose
-    ## 📊 Purpose
+
+    ## 📊 Purpose 
 
 This dashboard was built to provide **actionable insights** into insurance operations by:
 
@@ -25,8 +24,6 @@ This dashboard was built to provide **actionable insights** into insurance opera
 **Key Stakeholders**: Insurance managers, claims analysts, executives, and customer service teams
 
 
- 3. Tech Stack
-    List the key technologies used to build the dashboard.
       ## 🛠️ Tech Stack
 
 | Category | Technology |
@@ -47,7 +44,7 @@ This dashboard was built to provide **actionable insights** into insurance opera
 - ✅ Responsive dashboard design
 
 
-  4.Data Source
+  
   ## 📁 Data Source
 
 ### Data Overview
@@ -80,7 +77,7 @@ This dashboard was built to provide **actionable insights** into insurance opera
 ✅ Sample/dummy data used for demonstration purposes
 
 
-  5.Features/ Highlights
+
   ## ⭐ Features & Highlights
 
 ### 📊 Interactive Dashboards (Multiple Pages)
@@ -130,7 +127,7 @@ This dashboard was built to provide **actionable insights** into insurance opera
 - ✅ **Tooltips** - Hover details for deeper insights
 
 
-  6. Key Questions Below
+
   ## 🔍 Key Questions This Dashboard Answers
 
 ### 📋 **Claim Status & Processing**
@@ -193,7 +190,7 @@ This dashboard was built to provide **actionable insights** into insurance opera
 ✅ Customer retention rate: 92% YoY
 ```
 
-7.Screenshots / Demo
+
 THE DASHBOARD PRIVIEW
 https://github.com/vedant23nanoti-spec/Insurance-Data-Analysis-Dashboard./tree/main
 
